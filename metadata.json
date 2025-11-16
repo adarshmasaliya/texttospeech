@@ -1,0 +1,5 @@
+{
+  "name": "Text to Speech",
+  "description": "An application to convert text into high-quality speech using the Gemini API. Select from a variety of voices, listen to the generated audio, and download it as a WAV file.",
+  "requestFramePermissions": []
+}
